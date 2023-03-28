@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  conversao-peso:
+    image: midgardhero/conversao-peso-desafio6:latest
+    ports:
+      - 80:80
